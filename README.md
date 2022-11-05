@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanGit56
-- 👀 I’m interested in my product
-- 🌱 I’m currently learning CodeIgniter 4 and ROS
+- 👀 I’m interested in information system software for medical services
+- 🌱 I’m currently learning how to build an information system software properly
 - 💞️ I’m looking to collaborate on my software
 - 📫 How to reach me github.com/SanGit56
 

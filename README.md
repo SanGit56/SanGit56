@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanGit56
-- 👀 I’m interested in developing information system software
-- 🌱 I’m currently learning how to build an information system software properly
-- 💞️ I’m looking to collaborate on my software
-- 📫 How to reach me github.com/SanGit56
+- 👀 I’m interested to experience a variety of experiences
+- 🌱 I’m currently learning to extract lesson from various experiences
+- 💞️ I’m looking to collaborate for my learning
+- 📫 How to reach me: [henakato](https://henakato.blogspot.com/)
